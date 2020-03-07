@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\@@MyWorks\\Nasim Imtiaz CSE\\Music-Player-GO\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\INTER_WAVE\\.gradle\\caches\\transforms-2\\files-2.1\\72e3108cf78a7dd3e1b460197b647b60\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

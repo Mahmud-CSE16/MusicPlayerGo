@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\7937a8d09d743fae14c351292a4e00e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\73208d8c4e67321cfc869e56089e0e7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\a4d2ffa11511766cdfc452cfd5d124f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\bd1cf85244dbb751c16bad1c08d4ff0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\be66e55c80494aaa3c5e849ade12c309\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\1f81589f802065973da72759956f3ce6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\27f1243ee5139a1380cb8c286251b5ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\72e3108cf78a7dd3e1b460197b647b60\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\351c53464e2c7250c45c1e7100868732\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\32904fa663eeec04e27ac629a83353d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\e651bdd8d872b5b1eeb68ca29bf5dfb4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\904388fdd4aa24a58e55b5847d66be67\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml:23:18-55
+uses-sdk
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\7937a8d09d743fae14c351292a4e00e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\7937a8d09d743fae14c351292a4e00e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\73208d8c4e67321cfc869e56089e0e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\73208d8c4e67321cfc869e56089e0e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\a4d2ffa11511766cdfc452cfd5d124f1\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\a4d2ffa11511766cdfc452cfd5d124f1\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\bd1cf85244dbb751c16bad1c08d4ff0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\bd1cf85244dbb751c16bad1c08d4ff0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\be66e55c80494aaa3c5e849ade12c309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\be66e55c80494aaa3c5e849ade12c309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\1f81589f802065973da72759956f3ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\1f81589f802065973da72759956f3ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\27f1243ee5139a1380cb8c286251b5ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\27f1243ee5139a1380cb8c286251b5ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\72e3108cf78a7dd3e1b460197b647b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\72e3108cf78a7dd3e1b460197b647b60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\351c53464e2c7250c45c1e7100868732\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\351c53464e2c7250c45c1e7100868732\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\32904fa663eeec04e27ac629a83353d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\32904fa663eeec04e27ac629a83353d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\e651bdd8d872b5b1eeb68ca29bf5dfb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\e651bdd8d872b5b1eeb68ca29bf5dfb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\904388fdd4aa24a58e55b5847d66be67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\INTER_WAVE\.gradle\caches\transforms-2\files-2.1\904388fdd4aa24a58e55b5847d66be67\AndroidManifest.xml:20:5-44
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		ADDED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\@@MyWorks\Nasim Imtiaz CSE\Music-Player-GO\project\app\src\main\AndroidManifest.xml
